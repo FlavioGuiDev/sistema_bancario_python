@@ -1,3 +1,4 @@
+# Regras de negócio:
 # Um único usuário
 # validar se o depósito é positivo
 # Armazenar os saques e depósitos em lista e exibi-los no extrato
@@ -63,3 +64,4 @@ while True:
         break
     else:
         print("\nOpção inválida. Por favor, escolha uma opção válida.")           
+
